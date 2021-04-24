@@ -8,6 +8,6 @@ the api endpoint is
 http://localhost:8000/api/links/{id} to for one link
  
  
- for the KEY use mainurl and Value enter the url you want to shorten
+ for the KEY use mainurl and VALUE enter the url you want to shorten
 
 
