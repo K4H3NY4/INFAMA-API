@@ -2,7 +2,7 @@
 
 This project is built using Laravel 8 and sqlite.
 
-Download the zip file and run php artisan serve 
+Download the zip file, extract it and run php artisan serve 
 
 the api endpoint is<br>
 http://localhost:8000/api/links will display all the links that have been shortened <br>
