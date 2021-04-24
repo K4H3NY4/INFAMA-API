@@ -6,7 +6,6 @@ Download the zip file and run php artisan serve
 
 the api endpoint is
 http://localhost:8000/api/links/{id} to for one link
-
-the 
+ 
 
 
