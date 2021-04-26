@@ -10,5 +10,12 @@ http://localhost:8000/api/links/{id} to for one link
  
  
  for the KEY use mainurl and VALUE enter the url you want to shorten
+ 
+ For the live site 
+ here is the link
+ https://infama-api.pacisvorgel.co.ke/public/api/links
+ 
+for open a link use
+https://infama-api.pacisvorgel.co.ke/public/api/links/{id}
 
 
