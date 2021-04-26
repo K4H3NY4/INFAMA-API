@@ -9,13 +9,14 @@ http://localhost:8000/api/links will display all the links that have been shorte
 http://localhost:8000/api/links/{id} to for one link
  
  
- for the KEY use mainurl and VALUE enter the url you want to shorten
+ for the KEY use mainurl and VALUE enter the url you want to shorten<br>
+ {"mainurl": "infama.co.ke"} <br>
  
- For the live site 
- here is the link
- https://infama-api.pacisvorgel.co.ke/public/api/links
+ For the live site <br> 
+ here is the link to view all links and to add new data to the api <br>
+ https://infama-api.pacisvorgel.co.ke/public/api/links <br>
  
-for open a link use
-https://infama-api.pacisvorgel.co.ke/public/api/links/{id}
+use the link below to view, edit or delete a record in the database.<br>
+https://infama-api.pacisvorgel.co.ke/public/api/links/{id} <br>
 
 
